@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Originally by Andr3as07 <https://github.com/Andr3as07>
-# Some changes by Luke
+# Some changes by Tom Zurita
 # Rebuild by Tenyun
 
 # This block displays the number running background tasks.  Requires tsp.

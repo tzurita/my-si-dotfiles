@@ -28,7 +28,7 @@ alias \
 	grep="grep --color=auto" \
 	diff="diff --color=auto" \
 	ccat="highlight --out-format=ansi" \
-	ip="ip -color=auto"
+	ip="ip -c"
 
 # These common commands are just too long! Abbreviate them.
 alias \
